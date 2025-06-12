@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes project
+Recipes project for learning HTML and CSS basics.
